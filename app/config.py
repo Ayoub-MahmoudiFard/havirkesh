@@ -25,7 +25,7 @@ from .routers import factory_pesticide
 app = FastAPI(
     title="ایوب محمودی فرد",
     description="پروژه کارشناسی ارشد - پایگاه داده پیشرفته",
-    version="0.0.1",
+    version="0.0.2",
 )
 
 # صفحه بندی
