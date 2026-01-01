@@ -5,3 +5,4 @@ jdatetime
 passlib
 fastapi-pagination==0.15.3
 psycopg2-binary
+openai==2.14.0

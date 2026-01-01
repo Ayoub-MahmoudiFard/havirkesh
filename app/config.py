@@ -6,6 +6,7 @@ from .database import create_db_and_tables
 from fastapi_pagination import add_pagination
 
 # Imports routers
+from .routers import ai
 from .routers import users
 from .routers import provinces
 from .routers import city
@@ -35,6 +36,7 @@ add_pagination(app)
 def on_startup():
     create_db_and_tables()
 
+app.include_router(ai.router)
 app.include_router(users.router)
 app.include_router(provinces.router)
 app.include_router(city.router)
