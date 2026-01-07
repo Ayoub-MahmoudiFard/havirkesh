@@ -11,6 +11,8 @@ from ..database import get_session
 
 from sqlalchemy import text
 
+#ddddd
+
 
 client = OpenAI(
     base_url="https://ai.liara.ir/api/69560d1b7ac6eb7bf9fe31aa/v1",
