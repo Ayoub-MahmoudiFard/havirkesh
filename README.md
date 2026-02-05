@@ -4,6 +4,16 @@
 **درس:** پایگاه داده پیشرفته
 **استاد:** دکتر آرمین رشنو
 
+## لینک مستندات مراحل به صورت DFP
+
+[مرحله 1 PDF](document/step-01.pdf)
+[مرحله 2 PDF](document/step-02.pdf)
+[مرحله 6 PDF](document/step-06.pdf)
+[مرحله 7 PDF](document/step-07.pdf)
+[مرحله 8 PDF](document/step-08.pdf)
+[مرحله 9 PDF](document/step-09.pdf)
+[مرحله 11 PDF](document/step-11.pdf)
+
 ## معرفی پروژه
 
 هدف نوشتن وب سرویس مبتنی بر FastAPI طراحی و پیاده‌سازی شده است که عملیات مرتبط با پایگاه داده را به‌صورت API در بستر وب ارائه می‌دهد. 
