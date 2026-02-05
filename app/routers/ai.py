@@ -11,7 +11,7 @@ from ..database import get_session
 
 from sqlalchemy import text
 
-#ddddd
+#
 
 
 client = OpenAI(
